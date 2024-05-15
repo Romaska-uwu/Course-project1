@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+  font-size: 45px;
+  color: #074e0d;
+}
+
+#container{
+  box-shadow: 0 15px 30px 1px grey;
+  background: rgba(255, 255, 255, 0.90);
+  text-align:justify;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 5em auto;
+  height: auto;
+ width: 90%;
+  
+}
+
+p {
+  font-size: 20px;
+  text-align: 20px;
+  padding: 20px;
+  }
+  h2{
+    padding-top: 25px; 
+    font-size: 30px;
+    text-align: center;
+  }
+img{
+  
+  display: block;
+  margin: 0 auto;
+width: 75%;
+
+}
